@@ -4,4 +4,5 @@ def my_each(words)
     yield i
     i += 1
   end
+  words
 end
